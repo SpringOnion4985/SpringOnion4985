@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Nirbhay+Singh)](https://git.io/typing-svg)
 # Student | Machine Learning Engineer | Front-end Developer
 
 ### 🚀 Machine Learning Enthusiast | Front-end Developer | 📍 Based in Dehradun, India
